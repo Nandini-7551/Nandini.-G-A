@@ -4,13 +4,7 @@ Dashboard
 
 An interactive, single-file analytics dashboard built from the **Walmart Retail Dataset** (45 stores, 8,190 weekly records, Feb 2010 – Jul 2013). It visualises store performance KPIs, macroeconomic trends, markdown campaign coverage, and seasonal patterns — all without a backend or build step.
 
----
 
-## 📸 Preview
-
-> *(Add a screenshot here — drag your dashboard image into this section on GitHub)*
-
----
 
 ## 📊 What's Inside
 
